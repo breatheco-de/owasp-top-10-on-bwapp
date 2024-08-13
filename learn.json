@@ -1,0 +1,22 @@
+{
+    "title": {
+        "us": "OWASP Top 10 Exploitation Project in bWAPP",
+        "es": "Proyecto de Explotación del OWASP Top 10 en bWAPP"
+    },
+    "slug": "owasp-top10-exploitation-bwapp",
+    "description": {
+        "us": "This project involves exploiting vulnerabilities from the OWASP Top 10 using the bWAPP application within a beebox virtual machine. Students will follow a detailed guide to exploit one vulnerability as an example and then apply the same approach to the remaining vulnerabilities from the OWASP Top 10.",
+        "es": "Este proyecto implica explotar vulnerabilidades del OWASP Top 10 utilizando la aplicación bWAPP dentro de una máquina virtual beebox. Los estudiantes seguirán una guía detallada para explotar una vulnerabilidad como ejemplo y luego aplicarán el mismo enfoque a las vulnerabilidades restantes del OWASP Top 10."
+    },
+    "duration": 3,
+    "difficulty": "intermediate",
+    "technologies": ["cybersecurity", "ciberseguridad", "web security", "penetration testing", "exploitation"],
+    "repository": "https://github.com/breatheco-de/owasp-top-10-on-bwapp",
+    "preview": "https://raw.githubusercontent.com/breatheco-de/owasp-top-10-on-bwapp/main/assets/preview-image.png",
+    "delivery": {
+        "instructions": {
+            "en": "Please upload your pentesting-report-owasp-top10.pdf file to your GitHub repository and provide the link to your repository here.",
+            "es": "Por favor sube tu archivo pentesting-report-owasp-top10.pdf a tu repositorio de GitHub y proporciona el enlace a tu repositorio aquí."
+        }
+    }
+}
