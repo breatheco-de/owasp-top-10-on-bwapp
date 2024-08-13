@@ -35,7 +35,6 @@ Un nuevo repositorio se creará en tu cuenta.
 ### Paso 1: Configuración Inicial
 
 - [ ] Inicia la máquina virtual beebox.
-    <!-- - Asegúrate de que la máquina virtual beebox con bWAPP esté en funcionamiento. -->
 - [ ] Accede a la interfaz web de bWAPP desde tu navegador usando la dirección IP de la máquina beebox.
 
 - [ ] **Inicia sesión en bWAPP**:
