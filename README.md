@@ -38,8 +38,8 @@ Let's get started! 🤓
 - [ ] **Log in to bWAPP**:
 
 ```bash
-    - Usuario: bee
-    - Contraseña: bug
+    - User: bee
+    - Password: bug
 ```
  
 - [ ] **Select the OWASP Top 10**. In the bWAPP menu, select "OWASP Top 10" from the dropdown list to view the available vulnerabilities.
